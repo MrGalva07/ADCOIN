@@ -1,6 +1,6 @@
-## ADCOIN
+# ADCOIN
 
-# Integrantes
+## Integrantes
 * Lucas Santana
 * Luiz Francisco
 * Lucas Galvão
