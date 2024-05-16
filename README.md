@@ -7,3 +7,14 @@
 * João Valentim
 * Clara Galeno
 * Maria Paula
+
+## Tecnologias
+* Java
+* Springboot
+* Angular
+* Typescript
+* SASS
+* CSS
+* HTML
+
+## Funcionalidades
