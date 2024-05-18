@@ -1,11 +1,14 @@
 # ADCOIN
 
 ## Integrantes
+* Clara Galeno
+* Dávilos
+* João Valentim
+* Lucas Galvão
 * Lucas Santana
 * Luiz Francisco
-* Lucas Galvão
-* João Valentim
-* Clara Galeno
+
+
 * Maria Paula
 
 ## Tecnologias
