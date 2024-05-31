@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    top:0;
+    h1{
+        color: rgb(218, 218, 1);
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 10pt;
+        text-align: center;
+    }
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+    background-color: black;
+    height: 40px;
+    align-items: center;
+    width: 100%;
+    top: 0;
+
+    a{
+        color: rgb(218, 218, 1);
+        font-size: 15pt;
+    }
+}
