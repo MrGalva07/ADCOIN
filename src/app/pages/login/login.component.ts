@@ -7,8 +7,10 @@ import { Router } from '@angular/router';
   styleUrls: ['./login.component.scss']
 })
 export class LoginComponent {
+  nome: string = '';
   email: string = '';
   password: string = '';
+  cpf: string = '';
 
   constructor(private router: Router) {}
 
