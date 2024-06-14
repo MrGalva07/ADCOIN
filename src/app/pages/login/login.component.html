@@ -1,0 +1,26 @@
+<div class="login-container">
+  <h2>Cadastre</h2>
+  <p class="description">
+    Register and receive information about your favorite currencies by email.
+  </p>
+  <form (ngSubmit)="onSubmit()">
+    <mat-form-field appearance="fill">
+      <mat-label>Name</mat-label>
+      <input matInput [(ngModel)]="nome" name="nome" required>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Email</mat-label>
+      <input matInput [(ngModel)]="email" name="email" required>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Password</mat-label>
+      <input matInput [(ngModel)]="password" name="password" type="password" required>
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>CPF</mat-label>
+      <input matInput [(ngModel)]="cpf" name="cpf" type="cpf" required>
+    </mat-form-field>
+    <button mat-raised-button type="submit">Register!</button>
+  </form>
+</div>
+

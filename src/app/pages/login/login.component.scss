@@ -1,0 +1,23 @@
+.login-container {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+mat-form-field {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.description {
+  text-align: justify;
+  margin-bottom: 20px;
+  font-size: 16px;
+  color: #666;}
+
+button {
+  width: 100%;
+  color: #dad901;
+}
